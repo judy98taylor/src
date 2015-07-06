@@ -1,5 +1,6 @@
 ### 以下是常用的代码收集，没有任何技术含量，只是填坑的积累。转载请注明出处，谢谢。
 
+#### 1. css 2.x
 - 文字换行
 ```css
 /*强制不换行*/
@@ -79,10 +80,14 @@ cursor:not-allowed;
 ```css
 font-family:"Hiragino Sans GB","Hiragino Sans GB W3",'微软雅黑';
 ```
+
 - 省略号
 ```css
 .ellipsis{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 ```
+
+#### 2. css 3
+
 - 投影
 ```css
 .b{box-shadow:inset 1px -1px 0 #f1f1f1;text-shadow:1px 1px 0px #630;}
