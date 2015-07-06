@@ -1,7 +1,7 @@
 # src
 这里边是一些常用的资源或代码片段
 
-- [css 常用代码](/jsfront/src/blob/master/css.md)
+- [css 常用代码](//github.com/jsfront/src/blob/master/css.md)
 
 
 # 加群说明
