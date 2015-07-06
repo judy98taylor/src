@@ -1,7 +1,8 @@
 # src
 这里边是一些常用的资源或代码片段
 
-- [css 常用代码](//github.com/jsfront/src/blob/master/css.md)
+- [QQ 群规](//github.com/jsfront/src/blob/master/qq.md)
+- [CSS 常用代码](//github.com/jsfront/src/blob/master/css.md)
 
 
 # 加群说明
